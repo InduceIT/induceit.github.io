@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 598.32281 665.71346"
+   height="665.71344"
+   width="598.32281">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     transform="translate(-1.495158,-1.04917)"
+     id="layer1">
+    <g
+       transform="translate(-83.020123,-240.54548)"
+       id="g4227">
+      <path
+         style="opacity:1;fill:#44dfb7;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 349.9814,241.59465 251.39248,340.18356 487.05377,575.84485 252.78598,810.11264 349.98139,907.30806 682.8381,574.45135 349.9814,241.59465 Z"
+         id="rect4176" />
+      <path
+         style="opacity:1;fill:#44dfb7;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="M 183.1042,408.47185 84.515281,507.06076 153.29937,575.84485 85.908777,643.23544 183.10419,740.43086 349.0837,574.45135 183.1042,408.47185 Z"
+         id="rect4178" />
+      <path
+         style="opacity:1;fill:#44dfb7;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 349.08093,574.45411 -197.1723,0 1.39074,1.39074 -67.390593,67.39059 97.195413,97.19542 165.97674,-165.97675 z"
+         id="rect4189" />
+      <path
+         style="opacity:1;fill:#44dfb7;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         d="m 682.83395,574.45549 -197.16954,0 1.38936,1.38936 -234.26779,234.26779 97.19541,97.19542 332.85256,-332.85257 z"
+         id="path4191" />
+    </g>
+  </g>
+</svg>

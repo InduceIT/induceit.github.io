@@ -1,50 +1,231 @@
 <!doctype html>
 <html lang="en">
-  <head>
+<head>
+	<head profile="http://www.w3.org/2005/10/profile">
+	<link rel="icon" 
+		  type="image/svg" 
+		  href="logo.svg" />
     <!-- Required meta tags -->
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-
     <!-- Bootstrap CSS -->
-    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css"
+          integrity="sha384-JcKb8q3iqJ61gNV9KGb8thSsNjpSL0n8PARn9HuZOnIxN0hoP+VmmDGMN5t9UJ0Z" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <style>
+		* {
+		  box-sizing: border-box;
+		}
+		html {
+		  scroll-behavior: smooth;
+		}
+		.columns_four {
+		  float: left;
+		  width: 25%;
+		  padding: 8px;
+		}			
+		.columns_single {
+		  float: left;
+		  width: 100%;
+		  padding: 12px;
+		}
+		
+		.columns_single_sp {
+		  float: left;
+		  width: 100%;
+		  padding: 12px;
+		  padding-top: 30px;
+		}
+		
+		.columns {
+		  float: left;
+		  width: 50%;
+		  padding: 8px;
+		}		
+		/* Header/Logo Title */
+		.header_tag_line {
+		  padding: 100px;
+		  padding-top:160px;
+		  text-align: center;
+		  color: white;
+		  font-size: 30px;
+		  background-color: #373A44;
+		}
+		.btn-outline-info {
+			color: #44DFB7;
+			border-color: #44DFB7;
+		}	
+		.button-outline-info-override:hover, 
+		.button-outline-info-override:active,
+		.button-outline-info-override:focus,
+		.button-outline-info-override:visited{
+			background-color: #44DFB7 !important;
+			border-color: #44DFB7 !important;
+			background-image: none !important;
+			border: 0 !important;
+		}		
+		@media only screen and (max-width: 600px) {
+		  .columns {
+			width: 100%;
+		  }
+		}
+		@media only screen and (max-width: 1170px) {
+		  .columns_four {
+			width: 50%;
+		  }
+		}
+		@media only screen and (max-width: 400px) {
+		  .columns_four {
+			width: 100%;
+		  }
+		}
+    </style>
+	<script>
+		function goToReachUs()
+		{
+			 location.href = "#reachus";
+		} 
+	</script>
+    <title>InduceIT</title>
+</head>
+<body>
+	<nav class="navbar fixed-top navbar-expand-lg navbar-dark" style="background-color: #30333C;">
+	<div class="container">
+	    <a class="navbar-brand" href="#">
+		<img src="logo_full.svg" height="32" class="d-inline-block align-top" alt="">
+		</a>
+	  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+		<span class="navbar-toggler-icon"></span>
+	  </button>
+	  <div class="collapse navbar-collapse justify-content-end" id="navbarNav">
+		<ul class="navbar-nav">
+		  <li class="nav-item active">
+			<a class="nav-link" href="#home">Home <span class="sr-only">(current)</span></a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="#aboutus">About Us</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="#services">Services</a>
+		  </li>
+		  <li class="nav-item">
+			<a class="nav-link" href="#reachus">Reach Us</a>
+		  </li>
+		</ul>
+	  </div>
+	</div>
+	</nav>
+	<section id="home">
+        <div class="header_tag_line">
+            <h1>We</h1>
+            <p>Induce IT for Better</p>
+			<button type="button" class="btn btn-outline-info button-outline-info-override" onclick=" goToReachUs()">Reach Us</button>
+        </div>
+    </section>
+	<div class="container">
+	<div class="columns_single_sp">
+            <h5 class="card-title">We at InduceIT</h5>
+        </div>
+    <section id="aboutus" style="padding-top=400px;">
+        <div class="columns">
+            <div class="card">
+                <div class="card-body" style="min-height: 170px">
+                    <h5 class="card-title">Provide Out of the Box IT Solutions</h5>
+                    <p class="card-text">We are an innovative IT consultancy firm which is highly capable of providing
+                        <b>out of the box, robust, wallet friendly IT solutions</b> for your needs.</p>
+                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="card">
+                <div class="card-body" style="min-height: 170px">
+                    <h5 class="card-title">Have Experienced Team</h5>
+                    <p class="card-text">We have a strong technical team with <b>25+ years of industry experience</b> in
+                        many disciplines and they have worked with both local and foriegn clients delivering mission
+                        critical large scale software projects.</p>
+                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="card">
+                <div class="card-body" style="min-height: 170px">
+                    <h5 class="card-title">Avoid that Big Surprise at the End</h5>
+                    <p class="card-text">We at InduceIT are agile and we deliver usable product features in an
+                        incremental manner so in each iteration <b>you can see, feel, use and make adjustments</b>
+                        without having to wait until the very end.</p>
+                </div>
+            </div>
+        </div>
+        <div class="columns">
+            <div class="card">
+                <div class="card-body" style="min-height: 170px">
+                    <h5 class="card-title">Value Our Clients</h5>
+                    <p class="card-text">We make it our mission to support you on a consistent basis after our IT
+                        solution for you is deployed, so you are confident that <b>our systems run smoothly</b> without
+                        any hiccups in years to come.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="services">
+        <div class="columns_single">
+            <h5 class="card-title">Services</h5>
+        </div>
 
-    <title>Hello, world!</title>
-  </head>
-  <body>
-    <p>
-      We
-      
-      Provide Out of the Box IT Solutions
-      We are an innovative  IT consultancy firm which is highly capable of providing out of the box, robust, wallet friendly IT solutions for your needs. 
-      
-      Have Experienced Team 
-      We have a strong technical team with 25+ years of industry experience in many disciplines and they have worked with both local and foriegn clients delivering mission critical large scale software projects.
-      
-      Avoid that Big Surprise at the End
-      We at InduceIT are agile and we deliver usable product features in an incremental manner so in each iteration you can see, feel, use and make adjustments without having to wait until the very end.
-      
-      Value Our Clients
-      We make it our mission to support you on a consistent basis after our IT solution for you is deployed, so you are confident that our systems run smoothly without any hiccups in years to come.
-      
-      Services
-      Design
-      Requirement gathering and analysis.
-      Development
-      Agile based incremental software development.
-      Integration
-      Integration with legacy/existing systems.
-      Maintenance
-      24x7 support and routine maintenance work.
-
-      Reach Us
-      Email: reachus@induceit.com
-      Phone: +94xxxxxxxxxx
-    </p>
-
-    <!-- Optional JavaScript -->
-    <!-- jQuery first, then Popper.js, then Bootstrap JS -->
-    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js" integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj" crossorigin="anonymous"></script>
-    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js" integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN" crossorigin="anonymous"></script>
-    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js" integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV" crossorigin="anonymous"></script>
-  </body>
+        <div class="columns_four">
+            <div class="card">
+                <div class="card-body" style="min-height: 150px">
+                    <h5 class="card-title">Design</h5>
+                    <p class="card-text">Requirement gathering and analysis.</p>
+                </div>
+            </div>
+        </div>
+        <div class="columns_four">
+            <div class="card">
+                <div class="card-body" style="min-height: 150px">
+                    <h5 class="card-title">Development</h5>
+                    <p class="card-text">Agile based incremental software development.</p>
+                </div>
+            </div>
+        </div>
+        <div class="columns_four">
+            <div class="card">
+                <div class="card-body" style="min-height: 150px">
+                    <h5 class="card-title">Integration</h5>
+                    <p class="card-text">Integration with legacy/existing systems.</p>
+                </div>
+            </div>
+        </div>
+        <div class="columns_four">
+            <div class="card">
+                <div class="card-body" style="min-height: 150px">
+                    <h5 class="card-title">Maintenance</h5>
+                    <p class="card-text">24x7 support and routine maintenance work.</p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <section id="reachus">
+        <div class="columns_single">
+            <h5 class="card-title">Reach Us</h5>
+        </div>
+    </section>
+    <section>
+        <div class="columns_single">
+            <h5 class="card-title">Footer</h5>
+        </div>
+    </section>
+</div>
+<!-- Optional JavaScript -->
+<!-- jQuery first, then Popper.js, then Bootstrap JS -->
+<script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+        integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+        crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.1/dist/umd/popper.min.js"
+        integrity="sha384-9/reFTGAW83EW2RDu2S0VKaIzap3H66lZH81PoYlFhbGU+6BZp6G7niu735Sk7lN"
+        crossorigin="anonymous"></script>
+<script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"
+        integrity="sha384-B4gt1jrGC7Jh4AgTPSdUtOBvfO8shuf57BaghqFfPlYxofvL8/KUEfYiJOMMV+rV"
+        crossorigin="anonymous"></script>
+</body>
 </html>

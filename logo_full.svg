@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="797.87671"
+   height="165.82909"
+   viewBox="0 0 797.8767 165.82909"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.91 r13725"
+   sodipodi:docname="logo_full.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.5920177"
+     inkscape:cx="345.45087"
+     inkscape:cy="73.281695"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="1058"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     units="px"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     showguides="false" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-938.28442,-349.51391)">
+    <g
+       id="g4227"
+       inkscape:export-xdpi="4.3621936"
+       inkscape:export-ydpi="4.3621936"
+       transform="matrix(0.24909981,0,0,0.24909981,968.49336,289.33273)">
+      <path
+         id="rect4176"
+         d="M 349.9814,241.59465 251.39248,340.18356 487.05377,575.84485 252.78598,810.11264 349.98139,907.30806 682.8381,574.45135 349.9814,241.59465 Z"
+         style="opacity:1;fill:#44dfb7;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect4178"
+         d="M 183.1042,408.47185 84.515281,507.06076 153.29937,575.84485 85.908777,643.23544 183.10419,740.43086 349.0837,574.45135 183.1042,408.47185 Z"
+         style="opacity:1;fill:#44dfb7;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="rect4189"
+         d="m 349.08093,574.45411 -197.1723,0 1.39074,1.39074 -67.390593,67.39059 97.195413,97.19542 165.97674,-165.97675 z"
+         style="opacity:1;fill:#44dfb7;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+      <path
+         id="path4191"
+         d="m 682.83395,574.45549 -197.16954,0 1.38936,1.38936 -234.26779,234.26779 97.19541,97.19542 332.85256,-332.85257 z"
+         style="opacity:1;fill:#44dfb7;fill-opacity:1;stroke:none;stroke-width:0.25;stroke-linecap:square;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+         inkscape:connector-curvature="0" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:46.67981339px;line-height:125%;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#f7f7f7;fill-opacity:1;stroke:none;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+       x="1006.2027"
+       y="554.85297"
+       id="text4272"
+       sodipodi:linespacing="125%"
+       transform="scale(1.1669954,0.85690144)"><tspan
+         sodipodi:role="line"
+         id="tspan4274"
+         x="1006.2027"
+         y="554.85297"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:condensed;font-size:137.49999734px;font-family:'QuickType II Condensed';-inkscape-font-specification:'QuickType II Condensed, Condensed';fill:#f7f7f7;fill-opacity:1">InduceIT</tspan></text>
+  </g>
+</svg>
